@@ -1,0 +1,4 @@
+#Thu May 17 17:03:38 CST 2018
+base.0=C\:\\Users\\ShiMingMing\\Downloads\\Graduation design\\Android-KeDaXunFei\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\65
+path.0=classes.dex
+renamed.0=classes.dex
